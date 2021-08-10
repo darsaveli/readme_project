@@ -1,13 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jacek, Junior Python Developer</h1>
 
 <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" width="385px" align="right">
-https://img.shields.io/badge/-django-%2314392B
+
+
 *After 5 years of studies at technical university I decided to move forward and develop further my IT skills in the field of Python development. I have finished my Python course from Software Development Academy in June, 2021 and I’m very excited about the opportunity of getting my first job in this field to apply my knowledge and skills. I’m ready to dedicate myself to constant learning and use my organizational skills.*
 
 - 🌱 &nbsp;&nbsp;Personality: fast learner, stress-resistant, team-worker
 - 🔎 &nbsp;&nbsp;Hobby: learning languages
 
 ## 💻 Languages, technologies, and skills: 🚀
+<p>
 
       <img src="https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF>
       <img src="https://img.shields.io/badge/-django-%2314392B>
@@ -24,7 +26,7 @@ https://img.shields.io/badge/-django-%2314392B
       <img src="https://img.shields.io/badge/-Software%20testing%20and%20TDD-%23639495>
       <img src="https://img.shields.io/badge/-Algorithms%20and%20data%20structures-%230E2F38>
       <img src="https://img.shields.io/badge/-Design%20patterns%20and%20best%20practices-%239C503F>
-
+</p>
 
 
 

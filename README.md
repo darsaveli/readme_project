@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Jacek, Junior Python Developer</h1>
 
 <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" width="385px" align="right">
-
+https://img.shields.io/badge/-django-%2314392B
 *After 5 years of studies at technical university I decided to move forward and develop further my IT skills in the field of Python development. I have finished my Python course from Software Development Academy in June, 2021 and I’m very excited about the opportunity of getting my first job in this field to apply my knowledge and skills. I’m ready to dedicate myself to constant learning and use my organizational skills.*
 
 - 🌱 &nbsp;&nbsp;Personality: fast learner, stress-resistant, team-worker

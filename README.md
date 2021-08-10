@@ -26,10 +26,7 @@
       <img src="https://img.shields.io/badge/-Design%20patterns%20and%20best%20practices-%239C503F">
 </p>
 
-
-
-
-   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=mendyk-ja&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendyk-ja&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/mendyk-ja/github-readme-stats)
 

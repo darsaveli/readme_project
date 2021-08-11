@@ -33,6 +33,8 @@
 ### :mailbox: How to reach me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jacekmendyk/)
 
+<br>
+
 <hr>
 
 <div align="center">

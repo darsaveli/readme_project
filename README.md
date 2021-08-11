@@ -28,7 +28,7 @@
 
 ---
 
-[<img align="right" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendyk-ja&layout=compact&text_color=daf7dc&bg_color=151515">](https://github.com/mendyk-ja/github-readme-stats)
+[<img align="right" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendyk-ja&layout=compact&hide_border&text_color=daf7dc&bg_color=151515">](https://github.com/mendyk-ja/github-readme-stats)
 
 ### :mailbox: How to reach me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jacekmendyk/)

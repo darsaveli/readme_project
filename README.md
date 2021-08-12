@@ -30,11 +30,11 @@
 
 ---
 
+[<img align="left" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendyk-ja&border_color=151515&border_radius=0&layout=compact&text_color=daf7dc&bg_color=151515">](https://github.com/mendyk-ja/github-readme-stats)
+
 <h3 align="right"> :mailbox: How to reach me: </h3>
 
-<p align="right">[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jacekmendyk/) </p>
-
-[<img align="left" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendyk-ja&border_color=151515&border_radius=0&layout=compact&text_color=daf7dc&bg_color=151515">](https://github.com/mendyk-ja/github-readme-stats)
+<p align="right"> [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jacekmendyk/) </p>
 
 <br>
 

@@ -12,7 +12,7 @@
 ## 💻 Languages, technologies, and skills: 🚀
 <p>
       <img src="https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF">
-      <img src="https://img.shields.io/badge/-django-092E20?logo=django"
+      <img src="https://img.shields.io/badge/-django-092E20?logo=django">
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white">
       <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white">

@@ -23,8 +23,9 @@
       <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
       <img src="https://img.shields.io/badge/-Software%20testing%20and%20TDD-%23639495">
-      <img src="https://img.shields.io/badge/-Algorithms%20and%20data%20structures-%230E2F38">
       <img src="https://img.shields.io/badge/-Design%20patterns%20and%20best%20practices-%239C503F">
+      <img src="https://img.shields.io/badge/-Algorithms%20and%20data%20structures-%230E2F38">
+
 </p>
 
 ---

@@ -4,7 +4,7 @@
 <!-- https://media.giphy.com/media/9B8wYztAoe1zO/source.gif -->
 <img src="https://thumbs.gfycat.com/EnragedGoodEmeraldtreeskink-size_restricted.gif" width="385px" align="right">
 
-*After 5 years of studies at technical university I decided to move forward and develop further my IT skills in the field of Python development. I have finished my Python course from Software Development Academy in June, 2021 and I’m very excited about the opportunity of getting my first job in this field to apply my knowledge and skills. I’m ready to dedicate myself to constant learning and use my organizational skills.*
+*After 5 years of studies at technical university I decided to move forward and develop further my IT skills in the field of Python development. I have finished the Python course from Software Development Academy in June, 2021 and I’m looking forward to the opportunity of getting my first job in this field to apply my knowledge and skills. I’m ready to dedicate myself to constant learning and use my organizational skills.*
 
 - 🌱 &nbsp;&nbsp;Personality: fast learner, stress-resistant, team-worker
 - 🔎 &nbsp;&nbsp;Hobby: learning languages 

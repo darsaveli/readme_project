@@ -34,7 +34,7 @@
 
 <h3 align="right"> :mailbox: How to reach me: </h3>
 
-[<img align="right" src=https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jacekmendyk/)
+[<img align="right" src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social">](https://www.linkedin.com/in/jacekmendyk/)
 
 <br>
 
